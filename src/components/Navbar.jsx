@@ -28,9 +28,6 @@ export default function Navbar() {
           <span className="font-mono font-bold tracking-wider text-ink-primary text-sm group-hover:text-accent transition-colors">
             TEXTTRACE
           </span>
-          <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-paper-muted border border-paper-border text-ink-secondary">
-            DSA-II
-          </span>
         </Link>
 
         {/* Desktop Nav Links */}
